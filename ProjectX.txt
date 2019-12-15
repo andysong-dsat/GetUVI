@@ -1,0 +1,80 @@
+OOAD 
+UCSC Extension 
+Instructor: Edwin Mach 
+
+Project X 
+
+Time to Completion: This project will take 4-6 weeks time to complete. So please 
+prepare enough time for the project. 
+
+Due Date: Check with Instructor (Usually last day of class) 
+
+Deliverables:
+	• 	Software code in Object oriented language (JAVA, C++, etc) 
+	• 	Documentation 
+		. 	UML diagrams (show static and dynamic) 
+			. 	Show at least 10+ classes 
+		. 	Use cases (write a brief and a fully-dressed) 
+		. 	code documentation 
+		. 	architectural diagrams 
+		. 	interaction/sequence diagrams 
+	• 	Presentation (20 minutes MAX) 
+		. 	Video demo – if this is a hybrid or online class. 
+		. 	Class preso – if all classes are on-campus. 
+		
+		Optional: hardware, but this will be given back to you immediately 
+
+Project X Choice: 
+	• 	Pick A software application (game, webpage, mobile phone app, etc,...) with 
+		a purpose. It does not have to be a new or novel idea. It can be something 
+		that has been done before and does not have to be a “full blown” software 
+		application. 
+		.	You write the requirements, design, etc – I'm the boss and customer :-) so changing 
+			requirements and getting approval must go through me! 
+		. 	You must get approval from me for your project idea. 
+	•	Choose Project X-Alternative on the last page of this doc. 
+Partnering:
+It is your choice whether you would like to work with a partner (in the class), 
+but if you do work with a partner, come see me and we'll discuss what “extra” 
+stuff you need to do. 
+
+Examples of projects: 
+
+	1. a Board game – but you don't need to implement all the backend engine or 
+every single game detail. 
+	2. music webpage – play a small database of music through a web interface. 
+This interface must be dynamic in some way and accomodoate search, etc. On the 
+server end, use a OO language to process the requests.. 
+	3. mobile iphone app – browse a cd library on the internet... 
+There must be one or more actors, actions, and be in line with GRASP principles. 
+If any GRASP principles is broken, you'd need to explain why you had to break it. 
+
+These projects are banned: BlackJack or 21 card game 
+
+If there is doubt or questions regarding any of the requirements, please ask! 
+
+I know this project sounds “open-ended” and it is. Treat this like a real project 
+at work. How did you tie up loose ends? How did you get closure on open issues? 
+Most importantly, how did you define the scope? 
+
+Programming languages: 
+
+Feel free to use ANY Object oriented programming language that you know. You must 
+use an OO language if there exists one for what you are doing. So for the webpage 
+example, for example, use Java or C++ for the backend, but not C. No Javascript. 
+No PHP. 
+
+Checkpoints are optional. 
+
+CHECK POINT #1 (approx: Week 6-7) 
+
+You can optionally turn in/email me and show me: 
+
+Use cases = 80% completed. 
+Requirements = 80% done. 
+Architectural diagram 
+Progress on the “core” part 
+
+During class, each of you will present their top 2 use cases and a sample of UML 
+diagram and we will critique each other. It’s also important to talk about what 
+your project is and what it will do/background info. 
