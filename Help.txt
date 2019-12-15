@@ -1,0 +1,38 @@
+Project X - This GUI gets atmosphere conditions such as
+	 Ultraviolet Index, pollution and weather condition. 
+	 The relevant data will be displayed and announced. 
+	 
+
+Tab1 - Ultraviolet Index:
+	 Select a city from the list or key-in a new city then
+	 click "Get UVI by City", the city's Coordinates and 
+	 UVI will be displayed in the lower section.
+	 If the city is not available, key in Coordinates 
+	 (Latitude, Longitude) then click 
+	 'Get UVI by Coordinates" to get the UVI of the 
+	 location.
+
+Tab2 - Pollution Data:
+	 Open Weather Map web site has not release this 
+	 feature. Click "Get pollution by City" will get 
+	 an error message.
+	 The Beta version only supports the default
+	 Coordinates (lat: 0.0, Long: 10.00), click
+	 'Get pollution by Coord' will get Ozone 
+	 Thickness, Carbon Monoxide, Nitrogen Dioxide
+	 and Sulfur Dioxide's data at pressure 1000 hPa
+	 but the data is not reliable and sometime 
+	 not available.
+
+Tab3 - Weather Report:
+	 Select a city from the list or key-in a new city then
+	 click "Get Weather", the city's weather condition
+	 will be displayed in the lower section.
+
+Tab4 - Get City Coordinate:
+	 Select a city from the list or key-in a new city then
+	 click "Get Coordinates of City", the city's 
+	 Coordinates (Latitude, Longitude) will be displayed.
+
+Tab5 - Future Use:
+	 For new request in the future.
